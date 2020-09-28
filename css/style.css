@@ -41,6 +41,15 @@ footer{
 #lista{
   float: right;
 }
+.v1{
+  margin: 2em;
+}
+.v2{
+  margin: 2em;
+}
+.titulo{
+  margin: 1em;
+}
 
 /*header {
   background: #ca93f7;
